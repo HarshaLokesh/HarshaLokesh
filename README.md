@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshaLokesh
-- 👀 I’m interested in IOT, programming.
+- 👀 I’m interested in IOT, programming, trading.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on IOT, AI, data science.
 - 📫 How to reach me harsha.lokesh.r@gmail.com

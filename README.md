@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshaLokesh
-- 👀 I’m interested in machine learing, Data science, programming.
+- 👀 I’m interested in Airtifical Intelligence, Machine learing, Data science.
 - 🌱 I’m currently learning computer science.
--  I’m looking to collaborate on data science, Machine learning.
+- 🤝 I’m looking to collaborate on Data science, Machine learning projects and work.
 - 📫 How to reach me harsha.lokesh.r@gmail.com
 
 <!---

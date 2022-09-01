@@ -2,7 +2,7 @@
 - 👀 I’m interested in Airtifical Intelligence, Machine learing, Data science.
 - 🌱 I’m currently learning computer science.
 - 🤝 I’m looking to collaborate on Data science, Machine learning projects and work.
-- 📫 How to reach me harsha.lokesh.r@gmail.com
+- 📫 How to reach me harsha.lokesh.r@gmail.com, [Linkedin](https://www.linkedin.com/in/harsha-lokesh-752466191/).
 
 ### About me
 
